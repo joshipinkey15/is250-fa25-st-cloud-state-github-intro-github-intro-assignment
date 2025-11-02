@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub _ Pinky Was Here
+# :wave: The Basics of GitHub - Pinky Was Here
 
 ## 🤓 Course overview and learning outcomes 
 
